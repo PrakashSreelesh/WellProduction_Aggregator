@@ -11,10 +11,10 @@
 ## Installation
 
 1. Install Required Packages:
-   pip install -r requirements.txt
+   # pip install -r requirements.txt
 
 2. Running the Project:
-   python main.py
+   # python main.py
     - The API will be available at http://localhost:8080.
 
 ## API Endpoints
